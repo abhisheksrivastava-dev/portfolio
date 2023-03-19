@@ -35,7 +35,7 @@ import cert from "./cert.png";
 import awsm from "./certificate/awsm.png";
 import htmlc from "./certificate/htmlcss.png";
 import jsc from "./certificate/jsc.png";
-import jspattern from "./certificate/jspattern.png";
+import jspattern from "./certificate/jspa.png";
 import graphqlcer from "./certificate/graphqlcer.png";
 import tscert from "./certificate/tscert.png";
 import nodecert from "./certificate/nodecert.png";
