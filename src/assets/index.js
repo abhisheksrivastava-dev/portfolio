@@ -32,18 +32,18 @@ import task from "./task.jpg";
 import weather from "./weather.png";
 
 import cert from "./cert.png";
-import awsm from "./certificate/awsm.png";
-import htmlc from "./certificate/htmlcss.png";
-import jsc from "./certificate/jsc.png";
-import jspattern from "./certificate/jspa.png";
-import graphqlcer from "./certificate/grap.png";
-import tscert from "./certificate/tscert.png";
-import nodecert from "./certificate/ncert.png";
-import jsbasic from "./certificate/jsbasic.png";
-import nodecert2 from "./certificate/ncert2.png";
-import master from "./certificate/master.png";
-import awscert from "./certificate/awscert.png";
-import python from "./certificate/python.png";
+import awsm from "./certificate/aws-m.jpg";
+import htmlc from "./certificate/html-css.jpg";
+import jsc from "./certificate/jsc.jpg";
+import jspattern from "./certificate/jspattern.jpg";
+import graphqlcer from "./certificate/graphqlcer.jpg";
+import tscert from "./certificate/tscert.jpg";
+import nodecert from "./certificate/nodecert.jpg";
+import jsbasic from "./certificate/jsbasic.jpg";
+import nodecert2 from "./certificate/nodecert2.jpg";
+import master from "./certificate/master.jpg";
+import awscert from "./certificate/awscert.jpg";
+import python from "./certificate/python.jpg";
 
 export {
   logo,
