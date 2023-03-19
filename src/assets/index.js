@@ -27,13 +27,13 @@ import nestjs from "./tech/nest.svg";
 import epam from "./company/epam.png";
 import tcs from "./company/tcs.png";
 
-import amazonclone from "./amazon-clone.png";
+import amazonclone from "./amazonclone.png";
 import task from "./task.jpg";
 import weather from "./weather.png";
 
 import cert from "./cert.png";
-import awsm from "./certificate/aws-m.png";
-import htmlc from "./certificate/html-css.png";
+import awsm from "./certificate/awsm.png";
+import htmlc from "./certificate/htmlcss.png";
 import jsc from "./certificate/jsc.png";
 import jspattern from "./certificate/jspattern.png";
 import graphqlcer from "./certificate/graphqlcer.png";
