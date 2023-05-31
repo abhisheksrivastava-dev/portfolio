@@ -12,6 +12,9 @@
 
 Abhishek Srivastava - [@abhisheksrivastava-dev](https://www.linkedin.com/in/abhisheksrivastava-dev)
 
+Production :- https://thinkandbuild.tech/
+Dev :- https://portfolio-bp88zc2ax-abhisheksrivastava-dev.vercel.app/
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Acknowledgments -->
